@@ -23,7 +23,7 @@ int main()
 			}
 		}
 
-		cout << cont;
+		cout << cont << endl;
 	}
 
 	return 0;
